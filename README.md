@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marcusreul
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I'm currently learning everything related to data analytics for solutions
-- 💞️ I'm looking to collaborate in any company that's willing to see my potential
 - ⚡ Fun fact: I like animals and plants
 
 <!---
